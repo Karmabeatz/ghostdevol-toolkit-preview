@@ -1,0 +1,16 @@
+GhostDevol Developer Toolkit – License Agreement
+
+Copyright © 2025 GhostDevol
+
+This repository and its contents are provided for **visibility, credibility, and educational purposes only**.
+
+You MAY:
+- View and learn from the structure
+- Share the official Gumroad link to the toolkit
+
+You may NOT:
+- Rehost or redistribute any files from this repo or toolkit
+- Use any portion in a commercial product or service
+- Modify or repurpose the content for resale or promotion
+
+Violations will be enforced through takedowns and DMCA where applicable.
