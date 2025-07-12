@@ -1,4 +1,15 @@
-# 🛠️ GhostDevol Crypto Developer Toolkit – Premium Edition
+📁 go/
+   └── Core Go cryptography (wallets, Merkle, BIP32/39)
+📁 js/
+   └── JS SDK and tools
+📁 wallet/
+   └── Wallet generation logic
+📄 LICENSE – MIT
+📄 README.md – You are here// JS - BIP39 Wallet Example (if supported)
+import { generateMnemonic } from './js/wallet/bip39.js'
+
+const mnemonic = generateMnemonic()
+console.log("Mnemonic:", mnemonic)# 🛠️ GhostDevol Crypto Developer Toolkit – Premium Edition
 
 A rare, handcrafted toolkit for advanced crypto devs, security engineers, and Web3 innovators.
 
